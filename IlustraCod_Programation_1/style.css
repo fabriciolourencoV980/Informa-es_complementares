@@ -1,0 +1,11 @@
+.botao{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100px;
+    height: 40px;
+    background-color: #6dd65b;
+    color: #FFFFFF;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+   };
